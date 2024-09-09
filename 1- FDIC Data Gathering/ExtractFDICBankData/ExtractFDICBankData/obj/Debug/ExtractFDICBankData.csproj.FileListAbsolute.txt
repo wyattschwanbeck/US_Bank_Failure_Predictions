@@ -1,0 +1,22 @@
+C:\Users\Wyatt Schwanbeck\source\repos\ExtractFDICBankData\ExtractFDICBankData\bin\Debug\ExtractFDICBankData.exe.config
+C:\Users\Wyatt Schwanbeck\source\repos\ExtractFDICBankData\ExtractFDICBankData\bin\Debug\ExtractFDICBankData.exe
+C:\Users\Wyatt Schwanbeck\source\repos\ExtractFDICBankData\ExtractFDICBankData\bin\Debug\ExtractFDICBankData.pdb
+C:\Users\Wyatt Schwanbeck\source\repos\ExtractFDICBankData\ExtractFDICBankData\bin\Debug\YamlDotNet.dll
+C:\Users\Wyatt Schwanbeck\source\repos\ExtractFDICBankData\ExtractFDICBankData\bin\Debug\YamlDotNet.xml
+C:\Users\Wyatt Schwanbeck\source\repos\ExtractFDICBankData\ExtractFDICBankData\obj\Debug\ExtractFDICBankData.csproj.AssemblyReference.cache
+C:\Users\Wyatt Schwanbeck\source\repos\ExtractFDICBankData\ExtractFDICBankData\obj\Debug\ExtractFDICBankData.csproj.SuggestedBindingRedirects.cache
+C:\Users\Wyatt Schwanbeck\source\repos\ExtractFDICBankData\ExtractFDICBankData\obj\Debug\ExtractFDICBankData.csproj.CoreCompileInputs.cache
+C:\Users\Wyatt Schwanbeck\source\repos\ExtractFDICBankData\ExtractFDICBankData\obj\Debug\ExtractFDICBankData.csproj.CopyComplete
+C:\Users\Wyatt Schwanbeck\source\repos\ExtractFDICBankData\ExtractFDICBankData\obj\Debug\ExtractFDICBankData.exe
+C:\Users\Wyatt Schwanbeck\source\repos\ExtractFDICBankData\ExtractFDICBankData\obj\Debug\ExtractFDICBankData.pdb
+C:\Users\Wyatt Schwanbeck\OneDrive\Masters-Thesis-Code\1- FDIC Data Gathering\ExtractFDICBankData\ExtractFDICBankData\bin\Debug\ExtractFDICBankData.exe.config
+C:\Users\Wyatt Schwanbeck\OneDrive\Masters-Thesis-Code\1- FDIC Data Gathering\ExtractFDICBankData\ExtractFDICBankData\bin\Debug\ExtractFDICBankData.exe
+C:\Users\Wyatt Schwanbeck\OneDrive\Masters-Thesis-Code\1- FDIC Data Gathering\ExtractFDICBankData\ExtractFDICBankData\bin\Debug\ExtractFDICBankData.pdb
+C:\Users\Wyatt Schwanbeck\OneDrive\Masters-Thesis-Code\1- FDIC Data Gathering\ExtractFDICBankData\ExtractFDICBankData\bin\Debug\YamlDotNet.dll
+C:\Users\Wyatt Schwanbeck\OneDrive\Masters-Thesis-Code\1- FDIC Data Gathering\ExtractFDICBankData\ExtractFDICBankData\bin\Debug\YamlDotNet.xml
+C:\Users\Wyatt Schwanbeck\OneDrive\Masters-Thesis-Code\1- FDIC Data Gathering\ExtractFDICBankData\ExtractFDICBankData\obj\Debug\ExtractFDICBankData.csproj.AssemblyReference.cache
+C:\Users\Wyatt Schwanbeck\OneDrive\Masters-Thesis-Code\1- FDIC Data Gathering\ExtractFDICBankData\ExtractFDICBankData\obj\Debug\ExtractFDICBankData.csproj.SuggestedBindingRedirects.cache
+C:\Users\Wyatt Schwanbeck\OneDrive\Masters-Thesis-Code\1- FDIC Data Gathering\ExtractFDICBankData\ExtractFDICBankData\obj\Debug\ExtractFDICBankData.csproj.CoreCompileInputs.cache
+C:\Users\Wyatt Schwanbeck\OneDrive\Masters-Thesis-Code\1- FDIC Data Gathering\ExtractFDICBankData\ExtractFDICBankData\obj\Debug\ExtractFDICBankData.csproj.CopyComplete
+C:\Users\Wyatt Schwanbeck\OneDrive\Masters-Thesis-Code\1- FDIC Data Gathering\ExtractFDICBankData\ExtractFDICBankData\obj\Debug\ExtractFDICBankData.exe
+C:\Users\Wyatt Schwanbeck\OneDrive\Masters-Thesis-Code\1- FDIC Data Gathering\ExtractFDICBankData\ExtractFDICBankData\obj\Debug\ExtractFDICBankData.pdb
