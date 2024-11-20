@@ -14,8 +14,6 @@ The highest performing model within testing was the [probabilistic neural networ
 
 Notably, [Republic First Bank dba Republic Bank](https://www.fdic.gov/resources/resolutions/bank-failures/failed-bank-list/republicbank.html) failed in April of 2024 and was correctly identified as likely to fail within this model at 75%, 83%, and 87% from 12/30/2022 to 06/30/2023. Further, [Citizens Bank](https://www.fdic.gov/resources/resolutions/bank-failures/failed-bank-list/citizensbank.html) was classified as likely to fail during this time at 88%-93% and did fail in November, 2023. 
 
-![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/d0a7cc38d41be2005fc64ddb0b4ffb6ab57ebfe3b4b1d49c.png)
-
 ### Future Development
 
 There is opportunity to improve this models precision although it is imperative that recall remain maximized due to the critical nature of bank failures. The top ~20% of false-positive non-failing banks may be further scrutinized as some may truly also be operating on the brink of failure.
