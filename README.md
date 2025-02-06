@@ -15,6 +15,14 @@ The highest performing model within testing was the [probabilistic neural networ
 
 Notably, [Republic First Bank dba Republic Bank](https://www.fdic.gov/resources/resolutions/bank-failures/failed-bank-list/republicbank.html) failed in April of 2024 and was correctly identified as likely to fail within this model at 75%, 83%, and 87% from 12/30/2022 to 06/30/2023. Further, [Citizens Bank](https://www.fdic.gov/resources/resolutions/bank-failures/failed-bank-list/citizensbank.html) was classified as likely to fail during this time at 88%-93% and did fail in November, 2023. 
 
+<br>![Plot of Failed 2023-2024 banks](PlottedResults.png)
+
+### On the Benefits of Bayesian Neural Networks
+Model outputs are prediction distributions rather than single numerical outputs. This allows us to measure the models degree of certainty with regard to predictions via standard deviation. 
+<br>![Standard Deviation by Prediction](PlottedResults-STD-Dev-By-Prediction.png)
+
+Each batch of predictions mean and standard deviation follow a horseshoe pattern when plotted  with least predicted failing banks landing on the bottom left and highest predicted failing banks landing on the top left with lower standard deviations.  
+
 ### Future Development
 
 There is opportunity to improve this models precision although it is imperative that recall remain maximized due to the critical nature of bank failures. The top ~20% of false-positive non-failing banks may be further scrutinized as some may truly also be operating on the brink of failure.
